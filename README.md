@@ -2,6 +2,10 @@
 
 The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of Mongolia. 2 Robots were to be developed. One was a manually controlled four wheeled bot(MR1) which should pass a physical message to the second robot.The second bot should be a four legged Autonomous robot(MR2) following the gait pattern of a horse or a spider.The message passed in the form of the Gerege should be carried further by the second bot to the destination which is the sign of Victory. Both the bots had to perform taking care about the time given and also the obstacles placed on the arena by following cretain path as per the Rulebook provided.
 
+ 📕  [RULEBOOK](http://aburobocon2019.mnb.mn/uploads/file/Robocon_2019_Mongolia_RULE.pdf)
+
+
+
 **Softwares used: -**
  * Arduino IDE 
  * CodeVisonAVR 
