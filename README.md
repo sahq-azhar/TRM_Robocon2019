@@ -9,7 +9,8 @@ The theme was "Sharing the knowledge". It was related to the Urtuu system of Mon
  * MATLAB for calculations and SIMULINK for simulation of the robot.
 
 
-**Some photos: -** 
+**Some photos: -** <br>
+
 <img src="https://i.ibb.co/2cX7VJK/IMG20190211180114.jpg">
 <table>
   <tr>
