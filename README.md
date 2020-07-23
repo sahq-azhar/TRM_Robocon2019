@@ -1,6 +1,6 @@
 # TEAM ROBOCON MJCET-2019
 
-The theme was "Sharing the knowledge". It was related to the Urtuu system of Mongolian tradition. 2 Robots had to be developed. One was a 4 wheeled bot which had to pass a physical message to next bot and other was a 4legged bot (mimic horse) that had to carry the message to destination. Both of them had to avoid certain obstacles and had to perform according to rule book provided.
+The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of Mongolia. 2 Robots were to be developed. One was a manually controlled four wheeled bot which should pass a physical message to the second robot.The second bot should be a four legged robot following the gait pattern of a horse or a spider.The message passed in the form of the Gerege should be carried further by the second bot to the destination which is the sign of Victory. Both the bots had to perform taking care about the time given and also the obstacles placed on the arena by following cretain path as per the Rulebook provided.
 
 **Softwares / Programming languages used: -**
  * Arduino IDE 
