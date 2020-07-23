@@ -17,8 +17,8 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
 
 
 **Specifications of Autonomous Robot(MR2): -**
-* Four Legged Autonomous Bot, Versatile enough to switch between various GAIT patterns.
 * Operating Voltage : 24V
+* Four Legged Autonomous Bot, Versatile enough to switch between various GAIT patterns.
 * The ARM Cortex Microprocessors were mounted onto the PCB (designed using Cadsoft EAGLE).
 * Rotary encoders are used as a feedback from the motors for improved precision.
 
