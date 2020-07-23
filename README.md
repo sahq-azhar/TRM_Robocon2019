@@ -6,21 +6,19 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
  * Arduino IDE 
  * CodeVisonAVR 
  * Python IDE
+ * Cadsoft EAGLE
  * MATLAB for calculations and SIMULINK for simulation of the robot.
 
 **Specifications of Manual robot(MR1): -**
 * Operating Voltage : 12V
-* Microcontroller used 
-* Voltage= 24V
-* Voltage= 24V
-* Voltage= 24V
+* The MicroController is mounted onto the PCB designed using Cadsoft EAGLE
+* The Locomotion was achieved by interfacing the PS2 Controller joystick with the microcontroller
+
 
 **Specifications of Autonomous Robot(MR2): -**
+* Four Legged Autonomous Bot, Versatile enough to switch between various GAIT patterns
 * Operating Voltage : 24V
-* Voltage= 24V
-* Voltage= 24V
-* Voltage= 24V
-* Voltage= 24V
+* The ARM Cortex Microprocessors were mounted onto the PCB designed using Cadsoft EAGLE
 
 **Some photos: -** <br>
 
