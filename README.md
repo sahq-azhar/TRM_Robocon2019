@@ -8,7 +8,7 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
  * Python IDE
  * MATLAB for calculations and SIMULINK for simulation of the robot.
 
-**Specification: -**\
+**Specification: -**
 * Voltage= 24V
 
 **Some photos: -** <br>
