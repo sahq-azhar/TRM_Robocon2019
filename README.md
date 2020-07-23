@@ -11,14 +11,16 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
 
 **Specifications of Manual robot(MR1): -**
 * Operating Voltage : 12V
+* The Locomotion is achieved by interfacing the PS2 Controller joystick with the microcontroller
 * The MicroController is mounted onto the PCB designed using Cadsoft EAGLE
-* The Locomotion was achieved by interfacing the PS2 Controller joystick with the microcontroller
+* Rotary encoders are used as a feedback from the motors for improved precision
 
 
 **Specifications of Autonomous Robot(MR2): -**
 * Four Legged Autonomous Bot, Versatile enough to switch between various GAIT patterns
 * Operating Voltage : 24V
 * The ARM Cortex Microprocessors were mounted onto the PCB designed using Cadsoft EAGLE
+* Rotary encoders are used as a feedback from the motors for improved precision
 
 **Some photos: -** <br>
 
