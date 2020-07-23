@@ -14,6 +14,7 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
 * Voltage= 24V
 * Voltage= 24V
 * Voltage= 24V
+
 **Specifications of Autonomous Robot(MR2): -**
 * Operating Voltage : 24V
 * Voltage= 24V
