@@ -28,7 +28,7 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
 
 **Some photos: -** <br>
 
-<img src="https://i.ibb.co/2cX7VJK/IMG20190211180114.jpg">
+
 <table>
   <tr>
     <td><img src="https://i.ibb.co/sJScZCh/IMG-20190206-220243.jpg" width="300" > </td>
