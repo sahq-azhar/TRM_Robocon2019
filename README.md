@@ -13,6 +13,11 @@ The theme was "Sharing the knowledge", Inspired by the Great Urtu tradition of M
  * Cadsoft EAGLE
  * MATLAB and SIMULINK
 
+**Codes:**
+
+<a href="https://github.com/TEAMROBOCON-MJCET/TRM/tree/main/2019
+"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 **Specifications of Manual robot(MR1): -**
 * Operating Voltage : 12V
 * The Locomotion is achieved by interfacing the PS2 Controller joystick with the microcontroller.
