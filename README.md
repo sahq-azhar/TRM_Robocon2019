@@ -1,5 +1,5 @@
-#### 🔴 **IMPORTANT NOTICE:** 🔴 Beginning December 15, 2021, all details of this repository will be uploaded to the [WEBSITE](https://sahq-azhar.github.io/). I apologise for the inconvenience. Project details and updates will be posted there. 
-#### To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2019.html) .
+**🔴 **IMPORTANT NOTICE:** 🔴 Beginning December 15, 2021, all details of this repository will be uploaded to the [WEBSITE](https://sahq-azhar.github.io/). I apologise for the inconvenience. Project details and updates will be posted there.
+<br> To learn more about this project, click on this [link](https://sahq-azhar.github.io/robo2019.html) .**
 
 # TEAM ROBOCON MJCET-2019
 
